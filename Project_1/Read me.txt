@@ -1,0 +1,6 @@
+This program is used to simulate the execution of MIPS code. 
+
+When you execute the program, what you first enter is a file written MIPS code that you want to
+execute. The second line you enter is supposed to be a .in file with data you wanna input during 
+the execution. Thirdly, you need to enter a file for output.
+
