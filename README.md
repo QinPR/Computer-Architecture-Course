@@ -1,4 +1,4 @@
-# Computer-Architecture-CSC3050
+# Computer-Architecture-Course-Projects
 ### Computer Architecture course I took in year 2 Spring
 There are totally three projects in this course:  
 
