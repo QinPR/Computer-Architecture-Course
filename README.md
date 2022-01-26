@@ -1,5 +1,5 @@
 # Computer-Architecture-Course-Projects
-### Computer Architecture course I took in year 2 Spring
+### Computer Architecture course I took in 2021 Spring
 There are totally three projects in this course:  
 
 Project 1: The assembler and simulator for MIPS  
